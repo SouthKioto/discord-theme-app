@@ -18,3 +18,13 @@
   --background-color: #ffff;
 }
 ```
+
+## Uruchomienie aplikacji
+
+```bash
+    npm install
+    cd discord-theme-app
+    yarn dev
+```
+
+Po wklepaniu w konsole tych magicznych komend powinna aplikacja sie odpalic w trybie developerskim :3
