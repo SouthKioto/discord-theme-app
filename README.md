@@ -17,6 +17,10 @@
 :root {
   --background-color: #ffff;
 }
+
+.element {
+  background-color: var(--background-color);
+}
 ```
 
 ## Uruchomienie aplikacji
